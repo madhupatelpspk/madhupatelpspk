@@ -9,8 +9,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href="https://madhupatelpspk.github.io/ajay">Other Features</a></li>
-<li><a target="_blank" href="https://github.com/madhupatelpspk">GitHub</a></li>
+<li><a target="_blank" href="https://madhupatelpspk.github.io/ajay">Wedding Invitation Project</a></li>
+<li><a target="_blank" href="https://github.com/madhupatelpspk">GitHub Profile</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/ig_madhuuuuu" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.facebook.com/pspkgamer" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
